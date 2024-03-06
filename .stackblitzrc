@@ -1,1 +1,1 @@
-{ "startCommand": "ws" }
+{ "startCommand": "npm install && clear && ws" }
