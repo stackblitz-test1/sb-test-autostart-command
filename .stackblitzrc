@@ -1,1 +1,1 @@
-{ "startCommand": "node index.js" }
+{ "startCommand": "ws" }
